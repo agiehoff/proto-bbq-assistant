@@ -31,3 +31,11 @@ Detailed setup instructions coming soon.
 ---
 
 Happy grilling! 🍽️🔥🍖😋
+
+## 🖼️ Screenshots
+
+![BBQ Assistant Screenshot](screenshots/screenshot01.png)
+
+![BBQ Assistant Screenshot](screenshots/screenshot02.png)
+
+![BBQ Assistant Screenshot](screenshots/screenshot03.png)
