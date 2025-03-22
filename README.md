@@ -1,25 +1,33 @@
-# proto-bbq-assistant
+# 🔥 BBQ Assistant (Prototype)
 
-🔥 Grill-Assistent (Prototyp)
+## 🌐 Description
 
-Deutsch:
-Der Grill-Assistent ist eine interaktive Web-App, die dir automatisch Grillrezepte erstellt und passende Bilder generiert. Gib einfach Fleischstück, Zutaten, Gewicht, Dicke und Grilltyp an, und erhalte exakt berechnete Garzeiten und leckere Rezeptideen. Perfekt für alle, die stressfrei und professionell grillen möchten!
+The **BBQ Assistant** is an interactive web app that automatically creates personalized barbecue recipes and generates matching images. Just enter the meat type, ingredients, weight, thickness, and grill type, and you'll receive accurately calculated cooking times and delicious recipe suggestions. Ideal for anyone looking to make grilling easy, professional, and enjoyable!
 
-English:
-The Grill Assistant is an interactive web app that automatically generates barbecue recipes and matching photos. Simply enter your meat selection, ingredients, weight, thickness, and grill type to receive precise cooking times and delicious recipe suggestions. Perfect for anyone looking to grill effortlessly and professionally!
+---
 
-🚀 Features:
-Automatische Rezeptgenerierung
-KI-basierte Garzeitberechnung
-Dynamische Bilderzeugung zum Rezept
-Unterstützung verschiedener Grilltypen (Gas, Kohle, Elektro)
-Individuelle Einstellungen (SizzleZone, Fleischthermometer, Garstufen)
-🛠️ Technologie:
-Frontend: React
-Backend: Node.js, Express
-KI-Integration: OpenAI API (GPT & DALL-E)
-📦 Einrichtung & Nutzung:
-Detaillierte Anweisungen zum Setup findest du in Kürze hier.
+## 🚀 Features
 
-Viel Spaß beim Grillen! 🍖😋
-Happy grilling! 🍽️🔥
+- 🍽️ Automatic recipe generation
+- ⏱️ AI-powered cooking-time calculation
+- 📸 Dynamic image generation for each recipe
+- 🔥 Supports various grill types (gas, charcoal, electric)
+- ⚙️ Individual customization (SizzleZone, meat thermometer, cooking levels)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React
+- **Backend:** Node.js, Express
+- **AI Integration:** OpenAI API (GPT & DALL-E)
+
+---
+
+## 📦 Setup & Usage
+
+Detailed setup instructions coming soon.
+
+---
+
+Happy grilling! 🍽️🔥🍖😋
